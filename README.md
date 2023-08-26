@@ -1,13 +1,13 @@
 <!--### Hi there 👋-->
 <!--![header](https://capsule-render.vercel.app/api?type=rounded&color=4D75DB&section=header&text=Louie's%20github&fontColor=ffffff)-->
 
-- 👋   Hi, I'm Kyunwoo
+- 👋   Hi, I'm Woojin
 - 💻   I'm intereseted in iOS programming
 - 📚   I'm currently learning Swift & SwiftUI
 
-- 📮  **Kyunwoo's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:absolute0017@gmail.com)](mailto:absolute0017@gmail.com)
+- 📮  **Woojin's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:absolute0017@gmail.com)](mailto:absolute0017@gmail.com)
 
-- 📒  **Kyunwoo's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://cana17.tistory.com/)](https://cana17.tistory.com/)
+- 📒  **Woojin's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://cana17.tistory.com/)](https://cana17.tistory.com/)
 
 - 🎖️ Algorithm<br/><br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monetary)](https://solved.ac/monetary/) 
