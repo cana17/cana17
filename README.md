@@ -11,7 +11,7 @@
 
 - 🎖️ Algorithm<br/><br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monetary)](https://solved.ac/monetary/) <img src="http://mazandi.herokuapp.com/api?handle=monetary&theme=warm"/>
-<a href="https://opgc.me/#/users/cana17" target="_blank"><img src="https://api.opgc.me/githubs/users/cana17/tag/?theme=basic" /></a>
+<!--a href="https://opgc.me/#/users/cana17" target="_blank"><img src="https://api.opgc.me/githubs/users/cana17/tag/?theme=basic" /></a>
 <!--
 - 💻 Tech Stack<br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woojinchoi17&layout=compact&theme=dark)
