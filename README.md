@@ -10,7 +10,8 @@
 - 📒  **Woojin's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://cana17.tistory.com/)](https://cana17.tistory.com/)
 
 - 🎖️ Algorithm<br/><br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monetary)](https://solved.ac/monetary/) <img src="http://mazandi.herokuapp.com/api?handle=monetary&theme=warm"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monetary)](https://solved.ac/monetary/)
+<!--img src="http://mazandi.herokuapp.com/api?handle=monetary&theme=warm"/>
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcana17&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--a href="https://opgc.me/#/users/cana17" target="_blank"><img src="https://api.opgc.me/githubs/users/cana17/tag/?theme=basic" /></a>
